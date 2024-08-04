@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">⚒️Languages-Frameworks & Tools⚒️</p>
+<p align="center"><b>⚒️Languages-Frameworks & Tools⚒️</b></p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">🌎Socials</p>
+<p align="center"><b>🌎Socials</b></p>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<p align="center">⚡Stats⚡</p>
+<p align="center"><b>⚡Stats⚡</b></p>
 
 ###
 
