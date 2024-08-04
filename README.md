@@ -1,5 +1,5 @@
 <p align="center">Welcome to Yuvraj Desai's GitHub Profile👋</p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋+I'm+Yuvraj;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B8F7&width=435&lines=Hello%F0%9F%91%8B+I'm+Yuvraj;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
 ###
 
