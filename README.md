@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">🔭 I’m currently working on Data Analytics Projects<br>👯 I’m looking to collaborate on Hackathons<br>🌱 I’m currently learning Machine Learning <br>📫 How to reach me: yuvraj1desai@gmail.com</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/yuvrajdesai1/yuvrajdesai1/output/snake.svg" alt="Snake animation" />
 
 ###
