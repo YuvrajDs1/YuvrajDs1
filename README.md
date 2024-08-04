@@ -1,4 +1,5 @@
 <p align="center">Welcome to Yuvraj Desai's GitHub Profile👋</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello👋+I'm+Yuvraj;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 ###
 
