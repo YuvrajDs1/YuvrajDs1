@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00B8F7&center=true&vCenter=true&width=435&lines=Hello!!%F0%9F%91%8B;I'm+Yuvraj+Desai" alt="Typing SVG" /></a>
 
-<p align="center"><h2>A passionate Data Analyst and ML engineer from India</h2></p>
+<p align="center"><b>A passionate Data Analyst and ML engineer from India</b></p>
 
 ###
 
