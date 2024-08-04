@@ -8,10 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yuvrajdesai1/yuvrajdesai1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center"><b>⚒️Languages-Frameworks & Tools⚒️</b></p>
 
 ###
