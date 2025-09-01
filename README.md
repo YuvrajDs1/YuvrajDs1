@@ -1,14 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00B8F7&center=true&vCenter=true&width=435&lines=Hello!!%F0%9F%91%8B;I'm+Yuvraj+Desai" alt="Typing SVG" /></a>
 
-<p align="center"><b>A passionate Data Analyst, ML engineer and Web Dev from India</b></p>
+<p align="center"><b>A passionate ML & DL Engineer, GenAI Enthusiast, and Web Developer from India</b></p>
 
 ###
 
-<p align="left">🔭 I’m currently working on Data Analytics and Web Dev Projects<br>👯 I’m looking to collaborate on Hackathons<br>🌱 I’m currently learning Machine Learning <br>📫 How to reach me: yuvraj1desai@gmail.com</p>
+<p align="left">🔭 I’m currently working on Machine Learning, Deep Learning, and Generative AI projects<br>👯 I’m looking to collaborate on AI/ML hackathons and innovative projects<br>🌱 I’m currently learning advanced Generative AI techniques and NLP<br>📫 How to reach me: yuvraj1desai@gmail.com</p>
 
 ###
 
-<p align="center"><b>⚒️Languages-Frameworks & Tools⚒️</b></p>
+<p align="center"><b>⚒️Languages, Frameworks & Tools⚒️</b></p>
 
 ###
 
@@ -21,9 +21,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -32,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -56,17 +62,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="center"><b>⚡Stats⚡</b></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajdesai1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Yuvraj's%20Stats" height="193" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajdesai1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yuvrajdesai1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
