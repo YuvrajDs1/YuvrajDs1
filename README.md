@@ -7,14 +7,15 @@ I enjoy solving complex problems, experimenting with the latest AI frameworks, a
 
 ## 🛠 Skills
 
-| Category          | Technologies & Tools |
-|-------------------|-----------------------|
-| **Languages**     | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Databases**     | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![VectorDB](https://img.shields.io/badge/-VectorDB-009688) |
-| **AI/ML**         | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC00?logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/-Ollama-000000) |
-| **Frameworks**    | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
-| **APIs**          | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
-| **Tools**         | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) |
+| Category              | Technologies & Tools |
+|-----------------------|-----------------------|
+| **Languages**         | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Frameworks (AI/ML)**| ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white) |
+| **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![VectorDB](https://img.shields.io/badge/-VectorDB-009688) |
+| **Generative AI**     | ![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C) ![LangGraph](https://img.shields.io/badge/-LangGraph-0052CC) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC00?logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/-Ollama-000000) |
+| **APIs**              | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Tools**             | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) |
+
 
 ---
 
