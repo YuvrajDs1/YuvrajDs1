@@ -42,14 +42,6 @@ Developed a machine learning model to predict employee attrition and support wor
 Thakur College of Engineering and Technology (2022 – 2026)  
 *CGPA: 8.63 / 10*  
 
----
-
-## 🏆 Achievements
-- 🥇 Winner – MULTICON College-Level Presentation (*AI Video Summarization*)  
-- 📄 Publication – *AI Video Summarization* at MULTICON 2024  
-- 💡 Participant – World’s Largest Gen AI Hackathon (*Bombay Hacks 2024*)  
-
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-desai-368838227)  
