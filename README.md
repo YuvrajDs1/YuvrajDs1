@@ -1,6 +1,6 @@
 # Hi there, I'm Yuvraj Desai 👋
 
-I’m an **AI Engineer** passionate about building intelligent systems with **Generative AI** and **Deep Learning**.  
+I’m an **AI Engineer** passionate about building intelligent systems with **Agentic AI**, **Generative AI** and **Deep Learning**.  
 I enjoy solving complex problems, experimenting with the latest AI frameworks, and turning innovative ideas into impactful solutions 🚀.  
 
 ---
